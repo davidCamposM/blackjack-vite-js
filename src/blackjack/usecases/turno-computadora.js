@@ -4,7 +4,6 @@ import {crearCartaHTML, pedirCarta, valorCarta} from './';
 /**
  * @param {Number} puntosMinimos // Puntos minimos que la computadora necesita para ganar.
  * @param {HTMLElement} puntosHTML // Elemento HTML para mostrar los puntos.
- * @param {HTMLElement} divCartasComputadora
  * @param {Array<String>} deck
  */
 
